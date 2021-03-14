@@ -70,11 +70,7 @@ public class SkeletalTrackingProvider : BackgroundDataProvider
                         {
                             //フレームがうまく取れてない場合
                             // frame == null てっことはカメラに人が移ってない
-                            if (frame == null)
-                            {
-                                UnityEngine.Debug.Log("Pop result from tracker timeout!");
-                            }
-                            else //フレームが正常に取れているとき
+                            if (frame != null)
                             {
                                 IsRunning = true;
                                 // Get number of bodies in the current frame.
