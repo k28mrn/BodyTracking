@@ -111,3 +111,4 @@ Assets/Plugins/System.Runtime.CompilerServices.Unsafe.dll
 Assets/Plugins/System.Runtime.CompilerServices.Unsafe.dll.meta
 Assets/Plugins/vcomp140.dll
 Assets/Plugins/vcomp140.dll.meta
+*.DS_Store
