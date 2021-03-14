@@ -58,6 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Kinect Azure Build File
 MoveLibraryFiles.bat
 Packages/Microsoft.Azure.Kinect.BodyTracking.1.0.1/
 Packages/Microsoft.Azure.Kinect.BodyTracking.Dependencies.0.9.1/
@@ -68,3 +69,45 @@ Packages/System.Memory.4.5.3/
 Packages/System.Numerics.Vectors.4.5.0/
 Packages/System.Reflection.Emit.Lightweight.4.6.0/
 Packages/System.Runtime.CompilerServices.Unsafe.4.5.2/
+cublas64_100.dll
+cudart64_100.dll
+cudnn64_7.dll
+dnn_model_2_0.onnx
+onnxruntime.dll
+Assets/Plugins.meta
+Assets/Plugins/cublas64_100.dll
+Assets/Plugins/cublas64_100.dll.meta
+Assets/Plugins/cudart64_100.dll
+Assets/Plugins/cudart64_100.dll.meta
+Assets/Plugins/depthengine_2_0.dll
+Assets/Plugins/depthengine_2_0.dll.meta
+Assets/Plugins/k4a.dll
+Assets/Plugins/k4a.dll.meta
+Assets/Plugins/k4abt.dll
+Assets/Plugins/k4abt.dll.meta
+Assets/Plugins/k4arecord.dll
+Assets/Plugins/k4arecord.dll.meta
+Assets/Plugins/Microsoft.Azure.Kinect.BodyTracking.deps.json
+Assets/Plugins/Microsoft.Azure.Kinect.BodyTracking.deps.json.meta
+Assets/Plugins/Microsoft.Azure.Kinect.BodyTracking.dll
+Assets/Plugins/Microsoft.Azure.Kinect.BodyTracking.dll.meta
+Assets/Plugins/Microsoft.Azure.Kinect.BodyTracking.xml
+Assets/Plugins/Microsoft.Azure.Kinect.BodyTracking.xml.meta
+Assets/Plugins/Microsoft.Azure.Kinect.Sensor.deps.json
+Assets/Plugins/Microsoft.Azure.Kinect.Sensor.deps.json.meta
+Assets/Plugins/Microsoft.Azure.Kinect.Sensor.dll
+Assets/Plugins/Microsoft.Azure.Kinect.Sensor.dll.meta
+Assets/Plugins/Microsoft.Azure.Kinect.Sensor.xml
+Assets/Plugins/Microsoft.Azure.Kinect.Sensor.xml.meta
+Assets/Plugins/onnxruntime.dll
+Assets/Plugins/onnxruntime.dll.meta
+Assets/Plugins/System.Buffers.dll
+Assets/Plugins/System.Buffers.dll.meta
+Assets/Plugins/System.Memory.dll
+Assets/Plugins/System.Memory.dll.meta
+Assets/Plugins/System.Reflection.Emit.Lightweight.dll
+Assets/Plugins/System.Reflection.Emit.Lightweight.dll.meta
+Assets/Plugins/System.Runtime.CompilerServices.Unsafe.dll
+Assets/Plugins/System.Runtime.CompilerServices.Unsafe.dll.meta
+Assets/Plugins/vcomp140.dll
+Assets/Plugins/vcomp140.dll.meta
